@@ -1,0 +1,9 @@
+{
+  "theme": "drum",
+  "types": [
+    "bass",
+    "snare",
+    "tom",
+    "bongo"
+  ]
+}
